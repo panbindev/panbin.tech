@@ -214,26 +214,20 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-#  [[params.social]]
-#    icon = "envelope"
-#    icon_pack = "fa"
-#    link = "mailto:test@example.org"
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:bin.pan@foxmail.com"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/GeorgeCushen"
-
-#  [[params.social]]
-#    icon = "google-scholar"
-#    icon_pack = "ai"
-#    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  [[params.social]]
+    icon = "weibo"
+    icon_pack = "fa"
+    link = "//weibo.com/1244515933"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/panbindev"
-
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -248,30 +242,46 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
-
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
-
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
+  weight = 3
 
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+  name = "Tags"
+  url = "#tags"
+  weight = 4
+
+
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 4
+
+[[Languages.zh.menu.main]]
+  name = "主页"
+  url = "#about"
+  weight = 1
+
+[[Languages.zh.menu.main]]
+  name = "文章"
+  url = "#posts"
+  weight = 2
+
+[[Languages.zh.menu.main]]
+  name = "项目"
+  url = "#projects"
+  weight = 3
+
+[[Languages.zh.menu.main]]
+  name = "标签"
+  url = "#tags"
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
@@ -285,3 +295,7 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+# Configure the Chinese version of the website.
+[Languages.zh]
+  languageCode = "zh-cn"
