@@ -229,6 +229,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/panbindev"
 
+  [[params.social]]
+    icon = "question"
+    icon_pack = "fa"
+    link = "//zhihu.com/people/lanfone"
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
