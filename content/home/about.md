@@ -10,9 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Mobile App Development",
+    "Natural-language Processing"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -29,10 +28,9 @@ weight = 5
 [[education.courses]]
   course = "BEng in Computer Science"
   institution = "Shanghai Institute of Technology"
-  year = 2012
+  year = 2016
  
 +++
 
 # Biography
 
-I am learning Android.
