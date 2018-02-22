@@ -11,7 +11,6 @@ weight = 5
 [interests]
   interests = [
     "Mobile App Development",
-    "Natural-language Processing"
   ]
 
 # List your qualifications (such as academic degrees).

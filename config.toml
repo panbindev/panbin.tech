@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:bin.pan@foxmail.com"
+    link = "mailto:lanfone.pan@gmail.com"
 
   [[params.social]]
     icon = "weibo"

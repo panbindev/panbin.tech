@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-02-21T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "移动应用开发"
+    "Android移动应用开发"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,4 +32,4 @@ weight = 5
 +++
 
 # 简介
-
+这里是我记录个人成长的地方。
