@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "weibo"
     icon_pack = "fa"
-    link = "//weibo.com/1244515933"
+    link = "//weibo.com/u/1244515933"
 
   [[params.social]]
     icon = "github"
