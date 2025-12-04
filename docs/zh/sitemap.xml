@@ -1,0 +1,48 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://panbin.tech/zh/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://panbin.tech/" hreflang="en"/>
+    
+      <loc>https://panbin.tech/zh/</loc>
+      <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://panbin.tech/zh/categories/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://panbin.tech/categories/" hreflang="en"/>
+    
+      <loc>https://panbin.tech/zh/categories/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://panbin.tech/zh/publication_types/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://panbin.tech/publication_types/" hreflang="en"/>
+    
+      <loc>https://panbin.tech/zh/publication_types/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://panbin.tech/zh/tags/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://panbin.tech/tags/" hreflang="en"/>
+    
+      <loc>https://panbin.tech/zh/tags/</loc>
+    </url>
+    
+  
+</urlset>

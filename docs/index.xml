@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pan Bin&#39;s Blog on Pan Bin&#39;s Blog</title>
+    <link>https://panbin.tech/</link>
+    <description>Recent content in Pan Bin&#39;s Blog on Pan Bin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2001 - 2018 PanBin. All Rights Reserved </copyright>
+    <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://panbin.tech/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://panbin.tech/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://panbin.tech/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
